@@ -1,5 +1,5 @@
 
-Olá, eu sou o  [Fábio](https://windard.com) 👋
+Olá, eu sou o  [Fábio] 👋
 
 ![idade](https://img.shields.io/badge/idade-24-blue)
 ![Foco](https://img.shields.io/badge/Foco-Frontend-brightgreen)
@@ -8,4 +8,4 @@ Olá, eu sou o  [Fábio](https://windard.com) 👋
 
 <br />
 
-[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=fabiosilva1295&show_icons=true)](https://github.com/windard)
+
